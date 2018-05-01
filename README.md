@@ -1,4 +1,4 @@
-# SMU Creative Computation Capstone Project and Art History Honors Thesis
+# Creative Computation Capstone Project and Art History Honors Thesis
 
 At SMU I was accepted into the Engaged Learning Program to conduct and Art History Honors Thesis in conjunction with my Creative Computation Capstone Project. I was studying Sol LeWitt's relation to algorithm and searching for any conenctions between him and the early computer artist group, The Algorists. I was also researching what it means to translate Sol LeWitt's instruction drawings in code and how Sol LeWitt might have rewritten his instructions if Processing was his medium.
 
