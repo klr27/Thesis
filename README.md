@@ -5,3 +5,8 @@ At SMU I was accepted into the Engaged Learning Program to conduct and Art Histo
 ## The Experiment
 
 I conducted an experiment with the students in the Art and Code I class at SMU in which I gave them various Sol LeWitt instructions and asked them to create the drawings in Processing. The make-up of the class was varied and only a few people knew Sol LeWitt. I gave a brief overview of Sol LeWitt but didn't give too much instruction or information as I wanted genuine results. The code files in this repository are from this experiment.
+
+
+### Note
+
+I was unable to complete my thesis due to falling ill in a January term class and therefore being forced to drop my double major in art history and my thesis to complete a core requirement as I was a transfer student from Duke and the core requirements were different.
